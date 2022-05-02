@@ -1,0 +1,42 @@
+#editContainer{
+    max-width: 600px;
+  }
+
+  #inputID-button-input:hover{
+    background-color: #fff;
+    border-radius: 5px;
+    height: 5px;
+  }
+
+  #deleteContainer {
+    min-width: 405px;
+    max-width: 405px;
+  }
+
+  #addContainer {
+    min-width: 1200px;
+    max-width: 1200px;
+    min-height: 430px;
+    max-height: 430px;
+  }
+
+  #addInputID:hover{
+    background-color: #fff;
+    border-radius: 5px;
+    height: 5px;
+  }
+
+  #analyticsContainer{
+    max-height: 60rem;
+    min-width: 50rem;
+    max-width: 50rem;
+  }
+
+  #analyticsResultContainer{
+    max-width: 80rem;
+    min-width: 80rem;
+  }
+
+  #recentlyDeletedContainer{
+    max-width: 95rem;
+  }

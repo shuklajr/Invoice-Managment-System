@@ -1,0 +1,12 @@
+#inputID::placeholder {
+    color: #111;
+    opacity: 0.5;
+  }
+  #inputID:hover{
+    background-color: #fff;
+    border-radius: 5px;
+  }
+
+  #addButton {
+    border-right-color: #fff;
+  }
