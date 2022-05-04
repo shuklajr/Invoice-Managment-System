@@ -68,7 +68,10 @@ The application development part is related to building a web-based application 
 ### 4.2.1 LOADING THE DATA INTO DATABASE
 
 The data is loaded using the SQLDUMP file into SQLyog.
+
 ![image](https://user-images.githubusercontent.com/81213413/166680912-3077bed8-4755-4583-b148-831d0d843cc1.png)
+
+	Fig.4.4 SQLyog
 
 ### 4.2.2. CREATING API USING JAVA Servlet
 	
