@@ -99,4 +99,26 @@ A dashboard was made in ReactJs. The main page had a Head Section, comprised of 
 
 	Fig. 4.7. Add Button Modal
 
+![image](https://user-images.githubusercontent.com/81213413/166681884-ffb64a5e-0be5-4df1-9747-5213237d251d.png)
 
+	Fig. 4.8. Edit Modal
+
+![image](https://user-images.githubusercontent.com/81213413/166681924-9fcc5c63-ac8a-4758-9516-9c374574b729.png)
+
+	Fig. 4.9. Advanced Search Modal
+
+![image](https://user-images.githubusercontent.com/81213413/166681969-a777328d-5b41-4cb8-aa3f-98eabe5df075.png)
+
+ 	Fig. 4.10. Analytics View Modal
+	
+![image](https://user-images.githubusercontent.com/81213413/166682018-c7a9e91e-0d72-49c0-a444-7e454b6ac00d.png)
+
+	Fig. 4.11. Analytics View Result
+	
+![image](https://user-images.githubusercontent.com/81213413/166682081-50538f07-b5eb-4728-af0b-2e6c34c153b7.png)
+
+	Fig. 4.12. Analytics view Pie Chart
+	
+![image](https://user-images.githubusercontent.com/81213413/166682140-c9ff45ad-30ac-4b1d-935e-3e45a76710d2.png)
+
+	Fig. 4.13 Recently Deleted Modal
