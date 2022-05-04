@@ -47,12 +47,14 @@ Columns of Dataset:
 ### 4.1.2. DATA ANALYSIS AND MODELLING
 The dataset consisted of 50,000 rows, from which 9,681 rows did not have the attribute ‘clear_date’. These observations (samples) are considered in the testing set. The other portion of the dataset is divided into training and two validation sets. All the date-related attributes are converted to DateTime format. The supervising attribute or the target variable is named ‘delay’, which interprets the number of days of invoice payment delay. It is calculated by subtracting the due_in_date from the clear_date in terms of days. The training set consisted of 39,158 observation data and the two validation sets have consisted of 7,832 observations each
 ![image](https://user-images.githubusercontent.com/81213413/166680731-881197b2-a40c-46a3-bc22-5998f9ee4367.png)
+	
 	Fig 4.2. Modelling workflow and EDA on data
 
 ### 4.1.3. RESULT OF DIFFERENT MODELS
 
 
-        ![image](https://user-images.githubusercontent.com/81213413/166680840-f6b01882-6aab-48f3-be52-e3dc364b6c49.png)
+![image](https://user-images.githubusercontent.com/81213413/166681774-7e9ee3f7-eb5a-4c66-90d7-e90d5713f2b8.png)
+
 	
 	Fig. 4.3 Result of different Models
 
